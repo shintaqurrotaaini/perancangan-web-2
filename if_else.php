@@ -1,4 +1,4 @@
-<?
+<?php
 $a = 5;
 $b = 3;
 echo "\$a = $a <BR>";
@@ -11,4 +11,5 @@ else
 {
 echo '$a lebih besar daripada $b';
 }
+
 ?>
